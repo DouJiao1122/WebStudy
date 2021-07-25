@@ -9,6 +9,6 @@
 <h3>文件包括了2个早期学习Web创建的网页文件 </h3>
 
 <i>
-mc-web --> 简单的静态网页布局  </br>
+mc-web --> 简单的静态网页布局 <a href="mc-web/index.html">mc-web</a> </br>
 doujiao_web1.0 --> 响应式布局 </br>
 </i>
