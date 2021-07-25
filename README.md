@@ -15,7 +15,7 @@
 <a href="doujiao_web1.0/index.html">doujiao_web1.0</a> --> 响应式布局 </br>
 </i>
   
-<i></br>
-  <p>零碎文件</p>
+<p>零碎文件</p>
+<i></br>  
   jquery-circle-clock --> 时钟效果
 </i>
