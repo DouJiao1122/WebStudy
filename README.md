@@ -1,6 +1,6 @@
 # Web
 <pre>
-@WebPage: <a href="mc-web/index.html">dj.yutongdst.com</a> </br>
+@WebPage: <a href="http://dj.yutongdst.com/">dj.yutongdst.com</a> </br>
 @auther : DouJiao (豆角酱油) </br>
 @date   : 2021/7/25 </br>
 @qq     : 2569767455 
